@@ -1,1 +1,1 @@
-console.log(''HELLOW')
+console.log('HELLOW')
